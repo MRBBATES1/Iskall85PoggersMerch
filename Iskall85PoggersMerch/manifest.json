@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "This is Iskall85's Poggers Merch. This has been coverted from Java to Bedrock by MRBBATES1",
+        "name": "Iskall85's Poggers Merch",
+        "uuid": "0EF059D8-A2C1-4F78-8601-5EAFFC8503A3",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "This is Iskall85's Poggers Merch. This has been coverted from Java to Becrock by MRBBATES1",
+            "type": "resources",
+            "uuid": "B854E535-0070-4D50-AFD2-C8F064444900",
+            "version": [0, 0, 1]
+        }
+    ],
+	"metadata": {
+      "authors": [
+        "MRBBATES1"
+      ],
+      "url": "https://www.youtube.com/channel/UCkzdq_N-rlhT3FewrBR4xpw"
+    }
+}
